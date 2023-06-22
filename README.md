@@ -1,24 +1,12 @@
-# README
+# 概要
+- ステップ1までの完成です
+- Article に関わる要素のうち、認証機能及び著者、タグ、お気に入り(`favorite`) は実装していません
+- バリデーションはtitleとslugが空にならないように設定しているのみです
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# テスト
+- RSpec等でテストコードは書いていません
+- Postmanにてテストをしています
+- Postman上でのテスト結果はNotionにて画像があります
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# テスト結果URL
+- (https://graceful-coin-ae8.notion.site/Postman-8c791d9280ba4f6e8af04a3b770d63f0?pvs=4)
